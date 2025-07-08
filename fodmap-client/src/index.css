@@ -1,0 +1,48 @@
+@import "tailwindcss";
+
+body {
+  @apply p-4;
+
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 16px;
+}
+
+h1 {
+  @apply text-3xl font-bold mb-4;
+}
+
+.status-green {
+  @apply text-emerald-900;
+  @apply border-emerald-900;
+}
+.status-green-bg {
+  @apply bg-emerald-100;
+  @apply bg-emerald-200;
+}
+.status-yellow {
+  @apply text-amber-900;
+  @apply border-amber-900;
+}
+.status-yellow-bg {
+  @apply bg-amber-100;
+  @apply bg-amber-200;
+  @apply bg-yellow-200;
+}
+.status-red {
+  @apply text-rose-900;
+  @apply border-rose-900;
+}
+.status-red-bg {
+  @apply bg-rose-100;
+  @apply bg-rose-300;
+}
+
+input[type=search] {
+  @apply border border-gray-300 rounded p-2 mb-4 w-full;
+}
+
+label > span {
+  @apply ml-1;
+}

@@ -1,0 +1,3088 @@
+[
+  {
+    "name": "Cherry tomato",
+    "name_sv": "Körsbärstomat",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Gherkins in vinegar",
+    "name_sv": "Smågurkor i ättika",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Roma tomato",
+    "name_sv": "Roma-tomat",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Alfalfa",
+    "name_sv": "Alfalfa",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Ginger root",
+    "name_sv": "Ingefärsrot",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Canned tomato",
+    "name_sv": "Konserverad tomat",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Red bell pepper",
+    "name_sv": "Röd paprika",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Heart of palms canned",
+    "name_sv": "Konserverad palmhjärta",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Water chestnuts",
+    "name_sv": "Vattenkastanjer",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Carrot",
+    "name_sv": "Morot",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Pickled jalapeno",
+    "name_sv": "Inlagd jalapeno",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Yam",
+    "name_sv": "Yam",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Arugula/rocket",
+    "name_sv": "Rucola",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Kale",
+    "name_sv": "Grönkål",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "English spinach",
+    "name_sv": "Engelsk spenat",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Green chilli",
+    "name_sv": "Grön chili",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Lettuce",
+    "name_sv": "Sallad",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Swiss chard",
+    "name_sv": "Mangold",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Choy sum",
+    "name_sv": "Choy sum",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Canned champignon",
+    "name_sv": "Konserverad champinjon",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Canned bamboo shoots",
+    "name_sv": "Konserverade bambuskott",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Collard greens",
+    "name_sv": "Kollardgrönsaker",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Mushrooms",
+    "name_sv": "Svamp",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Fresh bamboo shoots",
+    "name_sv": "Färska bambuskott",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Canned baby corn",
+    "name_sv": "Konserverad babymais",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Black pitted olives",
+    "name_sv": "Svarta oliver utan kärna",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Bean sprouts",
+    "name_sv": "Bönskott",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Parsnip",
+    "name_sv": "Palsternacka",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Green pitted olives",
+    "name_sv": "Gröna oliver utan kärna",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Baby spinach",
+    "name_sv": "Babysallad",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Potato dumplings",
+    "name_sv": "Potatisdumplings",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Spring onion / shallots",
+    "name_sv": "Vår lök / schalottenlök",
+    "category": "Vegetables",
+    "status": "green",
+    "comments": "Green tops only",
+    "comments_sv": "Bara gröna toppar"
+  },
+  {
+    "name": "Tomato",
+    "name_sv": "Tomat",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "White potato peeled",
+    "name_sv": "Vit potatis, skalad",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Galangal",
+    "name_sv": "Galanga",
+    "category": "Vegetables",
+    "status": "green"
+  },
+  {
+    "name": "Globe artichoke",
+    "name_sv": "Globe-alkekung",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "15g"
+  },
+  {
+    "name": "Pickled artichokes",
+    "name_sv": "Inlagda kronärtskockor",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "10g"
+  },
+  {
+    "name": "Asparagus",
+    "name_sv": "Sparris",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "7g"
+  },
+  {
+    "name": "Eggplant/aubergine",
+    "name_sv": "Äggplanta",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Green beans",
+    "name_sv": "Gröna bönor",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Fresh beetroot",
+    "name_sv": "Färsk rödbeta",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "20g"
+  },
+  {
+    "name": "Canned beetroot",
+    "name_sv": "Konserverad rödbeta",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "60g"
+  },
+  {
+    "name": "Pickled beetroot",
+    "name_sv": "Inlagd rödbeta",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Green bell pepper",
+    "name_sv": "Grön paprika",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "52g"
+  },
+  {
+    "name": "Bok choy",
+    "name_sv": "Bok choy",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Broccoli (heads only)",
+    "name_sv": "Broccoli (endast huvuden)",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Broccoli (stalks only)",
+    "name_sv": "Broccoli (endast stjälkar)",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "45g"
+  },
+  {
+    "name": "Leek (bulb and leaves)",
+    "name_sv": "Purjolök (knöl och blad)",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "38g"
+  },
+  {
+    "name": "Leek (leaves only)",
+    "name_sv": "Purjolök (endast blad)",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "54g"
+  },
+  {
+    "name": "Frozen lotus root",
+    "name_sv": "Fryst lotusrot",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Mango tout",
+    "name_sv": "Mango tout",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "17g"
+  },
+  {
+    "name": "Dried porcini mushrooms",
+    "name_sv": "Torkade porcini-svampar",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "10g"
+  },
+  {
+    "name": "Fresh tomatillo",
+    "name_sv": "Färsk tomatillo",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Canned, drained tomatillos",
+    "name_sv": "Konserverade, avrunna tomatillos",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Canned artichoke hearts",
+    "name_sv": "Konserverade kronärtskockshjärtan",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Celery",
+    "name_sv": "Selleri",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "10g"
+  },
+  {
+    "name": "Chicory leaves",
+    "name_sv": "Cikoria blad",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Red chilli",
+    "name_sv": "Röd chili",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "28g"
+  },
+  {
+    "name": "Wombok",
+    "name_sv": "Wombok",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Chrysanthemum",
+    "name_sv": "Krysantemum",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Canned corn",
+    "name_sv": "Konserverad majs",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Sweet corn",
+    "name_sv": "Söt majs",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "38g"
+  },
+  {
+    "name": "Zucchini",
+    "name_sv": "Zucchini",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "65g"
+  },
+  {
+    "name": "White daikon",
+    "name_sv": "Vit daikon",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Dusle flakes",
+    "name_sv": "Dusle-flingor",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "10g"
+  },
+  {
+    "name": "Edamame",
+    "name_sv": "Edamame",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "90g"
+  },
+  {
+    "name": "Fennel bulb",
+    "name_sv": "Fänkål",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "48g"
+  },
+  {
+    "name": "Fennel leaves",
+    "name_sv": "Fänkålsblad",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "15g"
+  },
+  {
+    "name": "Chinese broccoli",
+    "name_sv": "Kinesisk broccoli",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Butternut pumpkin",
+    "name_sv": "Butternutpumpa",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "45g"
+  },
+  {
+    "name": "Canned pumpkin",
+    "name_sv": "Konserverad pumpa",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Semi sundried tomatoes",
+    "name_sv": "Halvtorkade tomater",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "8g"
+  },
+  {
+    "name": "Fermented red cabbage",
+    "name_sv": "Fermenterad rödkål",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Okra",
+    "name_sv": "Okra",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Squash",
+    "name_sv": "Squash",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Taro",
+    "name_sv": "Taro",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Jicama",
+    "name_sv": "Jicama",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Karela",
+    "name_sv": "Karela",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "15g"
+  },
+  {
+    "name": "Kimchi",
+    "name_sv": "Kimchi",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "47g"
+  },
+  {
+    "name": "Turnip",
+    "name_sv": "Rödbeta",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Cauliflower",
+    "name_sv": "Blomkål",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Ancho chilli",
+    "name_sv": "Ancho chili",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Garlic",
+    "name_sv": "Vitlök",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Dried lotus root",
+    "name_sv": "Torkad lotusrot",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Shallot onion",
+    "name_sv": "Schalottenlök",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Spring onion/scallion (bulb)",
+    "name_sv": "Vår lök/scallion (knöl)",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Spanish onion",
+    "name_sv": "Spansk lök",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Pickled onions",
+    "name_sv": "Inlagda lökar",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "White onion",
+    "name_sv": "Vit lök",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Dried shiitake mushroom",
+    "name_sv": "Torkad shiitake-svamp",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Whole broccoli",
+    "name_sv": "Hela broccoli",
+    "category": "Vegetables",
+    "status": "yellow",
+    "portion_size": "75g"
+  },
+  {
+    "name": "Broccolini (heads only)",
+    "name_sv": "Broccolini (endast huvuden)",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Broccolini (stalks only)",
+    "name_sv": "Broccolini (endast stjälkar)",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Whole broccolini",
+    "name_sv": "Hela broccolini",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Brussels sprouts",
+    "name_sv": "Brysselkål",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Butternut squash",
+    "name_sv": "Butternut squash",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Common cabbage",
+    "name_sv": "Kål",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Wakame flakes",
+    "name_sv": "Wakame-flingor",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Sauerkraut",
+    "name_sv": "Surkål",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Red cabbage",
+    "name_sv": "Röd kål",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Savoy cabbage",
+    "name_sv": "Savoykål",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Cassava",
+    "name_sv": "Yuca",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Celeriac",
+    "name_sv": "Sellerirota",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Portobello mushrooms",
+    "name_sv": "Portobello-svampar",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Shiitake mushroom",
+    "name_sv": "Shiitake-svamp",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Oyster mushrooms",
+    "name_sv": "Ostronsvamp",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Sweet potato",
+    "name_sv": "Sötpotatis",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Green peas canned",
+    "name_sv": "Gröna ärtor på burk",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Snow peas",
+    "name_sv": "Sockerärtor",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Sugar snap peas",
+    "name_sv": "Sockersnapsärtor",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Thawed peas",
+    "name_sv": "Tina ärtor",
+    "category": "Vegetables",
+    "status": "red"
+  },
+  {
+    "name": "Ackee in brine",
+    "name_sv": "Ackee i saltlake",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Firm sugar banana",
+    "name_sv": "Fast sockerbanan",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Clementine",
+    "name_sv": "Klementin",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Carambola",
+    "name_sv": "Stjärnfrukt",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Coconut cream",
+    "name_sv": "Kokosgrädde",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Cumquats",
+    "name_sv": "Kumquat",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Dragonfruit",
+    "name_sv": "Drakfrukt",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Durian",
+    "name_sv": "Durian",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Guava",
+    "name_sv": "Guava",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Lemon",
+    "name_sv": "Citron",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Limes",
+    "name_sv": "Lime",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Mandarin",
+    "name_sv": "Mandarin",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Oranges",
+    "name_sv": "Apelsin",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Papaya",
+    "name_sv": "Papaya",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Plantain",
+    "name_sv": "Plantain",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Prickly pear",
+    "name_sv": "Kaktusfikon",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Strawberries",
+    "name_sv": "Jordgubbar",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Rhubarb",
+    "name_sv": "Rabarber",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Starfruit",
+    "name_sv": "Stjärnfrukt",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Grapes",
+    "name_sv": "Druvor",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Kiwi fruit",
+    "name_sv": "Kiwi-frukt",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Breadfruit",
+    "name_sv": "Brödfrukt",
+    "category": "Fruit",
+    "status": "green"
+  },
+  {
+    "name": "Jackfruit",
+    "name_sv": "Jackfrukt",
+    "category": "Fruit",
+    "status": "green",
+    "portion_size": "15g",
+    "comments": "Similar to Breadfruit",
+    "comments_sv": "Liknar brödfrukt"
+  },
+  {
+    "name": "Avocado",
+    "name_sv": "Avokado",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Dried banana chips",
+    "name_sv": "Torkade bananchips",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Ripe banana",
+    "name_sv": "Mogen banan",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "35g"
+  },
+  {
+    "name": "Unripe banana",
+    "name_sv": "Omogen banan",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "100g"
+  },
+  {
+    "name": "Ripe sugar banana",
+    "name_sv": "Mogen sockerbanan",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "56g"
+  },
+  {
+    "name": "Blueberries",
+    "name_sv": "Blåbär",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Rockmelon/cantaloupe",
+    "name_sv": "Bollmelon",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "120g"
+  },
+  {
+    "name": "Coconut",
+    "name_sv": "Kokosnöt",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "64g"
+  },
+  {
+    "name": "Shredded coconut",
+    "name_sv": "Riven kokos",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Dried cranberries",
+    "name_sv": "Torkade tranbär",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "15g"
+  },
+  {
+    "name": "Tinned guava in syrup",
+    "name_sv": "Konserverad guava i sirap",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "45g"
+  },
+  {
+    "name": "Lychee",
+    "name_sv": "Litchi",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Mango",
+    "name_sv": "Mango",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Honeydew melon",
+    "name_sv": "Honungsmelon",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "90g"
+  },
+  {
+    "name": "Passionfruit",
+    "name_sv": "Passionsfrukt",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "46g"
+  },
+  {
+    "name": "Yellow peach",
+    "name_sv": "Gul persika",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Persimmon",
+    "name_sv": "Kaki",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "60g"
+  },
+  {
+    "name": "Pineapple",
+    "name_sv": "Ananas",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "140g"
+  },
+  {
+    "name": "Pomegranate",
+    "name_sv": "Granatäpple",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "45g"
+  },
+  {
+    "name": "Currants",
+    "name_sv": "Vinbär",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "13g"
+  },
+  {
+    "name": "Dried goji berries",
+    "name_sv": "Torkade gojibär",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "10g"
+  },
+  {
+    "name": "Grapefruit",
+    "name_sv": "Grapefrukt",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "80g"
+  },
+  {
+    "name": "Raisins",
+    "name_sv": "Russin",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "13g"
+  },
+  {
+    "name": "Raspberries",
+    "name_sv": "Hallon",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "60g"
+  },
+  {
+    "name": "Tamarillo",
+    "name_sv": "Tamarillo",
+    "category": "Fruit",
+    "status": "yellow",
+    "portion_size": "25g"
+  },
+  {
+    "name": "Apple",
+    "name_sv": "Äpple",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Dried apple",
+    "name_sv": "Torkat äpple",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Apricots",
+    "name_sv": "Aprikoser",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Blackberries",
+    "name_sv": "Björnbär",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Dates",
+    "name_sv": "Dadlar",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Feijoa",
+    "name_sv": "Feijoa",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Dried fig",
+    "name_sv": "Torkad fikon",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Dried mango",
+    "name_sv": "Torkad mango",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Dried paw paw",
+    "name_sv": "Torkad papaya",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Nectarine",
+    "name_sv": "Nektarin",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Clingstone peach",
+    "name_sv": "Klibbpersika",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "White peach",
+    "name_sv": "Vit persika",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Canned peaches",
+    "name_sv": "Konserverade persikor",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Dried pear",
+    "name_sv": "Torkad päron",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Nashi pear",
+    "name_sv": "Nashi-päron",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Packham pear",
+    "name_sv": "Packham-päron",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Dried pineapple",
+    "name_sv": "Torkad ananas",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Black diamond plum",
+    "name_sv": "Svart diamantplommon",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Seedless watermelon",
+    "name_sv": "Kärnfri vattenmelon",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Boysenberry",
+    "name_sv": "Boysenbär",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Custard apple",
+    "name_sv": "Gräddäpple",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Fresh fig",
+    "name_sv": "Färsk fikon",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Unripe guava",
+    "name_sv": "Omogen guava",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Prunes",
+    "name_sv": "Plommon",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Cherries",
+    "name_sv": "Körsbär",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Sultanas",
+    "name_sv": "Sultana-russin",
+    "category": "Fruit",
+    "status": "red"
+  },
+  {
+    "name": "Rolled oats",
+    "name_sv": "Havregryn",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Oat flakes",
+    "name_sv": "Havreflingor",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Oat bran",
+    "name_sv": "Havreklimpar",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Rice bran",
+    "name_sv": "Risfrö",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Spelt sourdough",
+    "name_sv": "Dinkel surdegsbröd",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Oat sourdough",
+    "name_sv": "Havre surdegsbröd",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Gluten free bread",
+    "name_sv": "Glutenfritt bröd",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Gluten free flour",
+    "name_sv": "Glutenfritt mjöl",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Gluten free pasta",
+    "name_sv": "Glutenfri pasta",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Corn flakes",
+    "name_sv": "Majsflingor",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Buckwheat groats",
+    "name_sv": "Bokhveteskott",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Quinoa flour",
+    "name_sv": "Quinoamjöl",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Quinoa",
+    "name_sv": "Quinoa",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Quinoa flakes",
+    "name_sv": "Quinoaflingor",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Rice",
+    "name_sv": "Ris",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Sago",
+    "name_sv": "Sago",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Arrowroot",
+    "name_sv": "Pilarrot",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Cornstarch",
+    "name_sv": "Majsstärkelse",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Maize",
+    "name_sv": "Majs",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Teff",
+    "name_sv": "Teff",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Rice noodles",
+    "name_sv": "Risnudlar",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Polenta",
+    "name_sv": "Polenta",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Nutritional yeast",
+    "name_sv": "Näringsjäst",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Green banana flour",
+    "name_sv": "Grönt bananmjöl",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Millet",
+    "name_sv": "Hirs",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Potato starch",
+    "name_sv": "Potatisstärkelse",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Tapioca",
+    "name_sv": "Tapioka",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Rice flour",
+    "name_sv": "Risflour",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Sorghum",
+    "name_sv": "Sorghum",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Pearl barley sprouted",
+    "name_sv": "Kornkli sprutat",
+    "category": "Grains",
+    "status": "green"
+  },
+  {
+    "name": "Puffed amaranth",
+    "name_sv": "Puffad amarant",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "10g"
+  },
+  {
+    "name": "Pearl barley",
+    "name_sv": "Kornkli",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "28g"
+  },
+  {
+    "name": "Bourghal",
+    "name_sv": "Bulgur",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "44g"
+  },
+  {
+    "name": "Corn bread",
+    "name_sv": "Majsbröd",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "35g"
+  },
+  {
+    "name": "Wheat bread",
+    "name_sv": "Vetebröd",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "24g"
+  },
+  {
+    "name": "Rice flakes",
+    "name_sv": "Risflingor",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Vital wheat gluten",
+    "name_sv": "Veteprotein",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Buckwheat flakes cooked",
+    "name_sv": "Tillagade bovete-flingor",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "120g"
+  },
+  {
+    "name": "Rice and corn couscous",
+    "name_sv": "Ris- och majs-couscous",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "37g"
+  },
+  {
+    "name": "Egg noodles",
+    "name_sv": "Äggnudlar",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Quick oats (uncooked)",
+    "name_sv": "Snabbhavre (okokt)",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "23g"
+  },
+  {
+    "name": "Chickpea pasta",
+    "name_sv": "Kikärts-pasta",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "100g"
+  },
+  {
+    "name": "Spelt pasta",
+    "name_sv": "Dinkelpasta",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "85g"
+  },
+  {
+    "name": "Wheat pasta",
+    "name_sv": "Vetepasta",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "85g"
+  },
+  {
+    "name": "Puffed rice",
+    "name_sv": "Puffad ris",
+    "category": "Grains",
+    "status": "yellow",
+    "portion_size": "15g"
+  },
+  {
+    "name": "Wheat bran",
+    "name_sv": "Vete kli",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Buckwheat kernels",
+    "name_sv": "Bovetekärnor",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Filo pastry",
+    "name_sv": "Filo-deg",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Naan, roti bread",
+    "name_sv": "Naan, roti-bröd",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Amaranth powder",
+    "name_sv": "Amarantmjöl",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Pumpernickel bread",
+    "name_sv": "Pumpernickel-bröd",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Rye bread",
+    "name_sv": "Rågbröd",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Wheat couscous",
+    "name_sv": "Vetecouscous",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Barley flakes",
+    "name_sv": "Kornflingor",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Barley flour",
+    "name_sv": "Kornmjöl",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Buckwheat flour",
+    "name_sv": "Bovetemjöl",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Coconut flour",
+    "name_sv": "Kokosmjöl",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Lupin flour",
+    "name_sv": "Lupinmjöl",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Rye flour",
+    "name_sv": "Rågmjöl",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Wheat flour",
+    "name_sv": "Vetemjöl",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Freekeh",
+    "name_sv": "Freekeh",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Wheat noodles",
+    "name_sv": "Vetenuppnudlar",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Raisin toast",
+    "name_sv": "Russinbröd",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Fine semolina",
+    "name_sv": "Fint semolina",
+    "category": "Grains",
+    "status": "red"
+  },
+  {
+    "name": "Butter",
+    "name_sv": "Smör",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Comte french cheese",
+    "name_sv": "Comté-fransk ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Gruyere cheese",
+    "name_sv": "Gruyère-ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Manchego cheese",
+    "name_sv": "Manchego-ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Monterey jack",
+    "name_sv": "Monterey jack-ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Swiss cheese",
+    "name_sv": "Svensk ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Brie cheese",
+    "name_sv": "Brie-ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Cheddar cheese",
+    "name_sv": "Cheddar-ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Feta cheese",
+    "name_sv": "Feta-ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Mozzarella",
+    "name_sv": "Mozzarella-ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Ghee",
+    "name_sv": "Ghee",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Coconut milk powder",
+    "name_sv": "Kokosmjölkpulver",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Almond milk",
+    "name_sv": "Mandelmjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Soy milk",
+    "name_sv": "Sojamjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green",
+    "comments": "Made from soy protein isolate, not whole soybeans",
+    "comments_sv": "Tillverkad av sojaproteinisolat, inte hela sojabönor"
+  },
+  {
+    "name": "Lactose free milk",
+    "name_sv": "Laktosfri mjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Macadamia milk",
+    "name_sv": "Macadamia-mjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Rice milk",
+    "name_sv": "Ris-mjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Coconut yogurt",
+    "name_sv": "Kokosyoghurt",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Lactose free yogurt",
+    "name_sv": "Laktosfri yoghurt",
+    "category": "Dairy & Dairy alternatives",
+    "status": "green"
+  },
+  {
+    "name": "Buttermilk",
+    "name_sv": "Kärnmjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "16g"
+  },
+  {
+    "name": "Queso fresco",
+    "name_sv": "Queso fresco",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Cottage cheese",
+    "name_sv": "Keso",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Cream cheese",
+    "name_sv": "Krämerost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Soft cheese",
+    "name_sv": "Mjukost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "20g"
+  },
+  {
+    "name": "Goat cheese",
+    "name_sv": "Getost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Paneer cheese",
+    "name_sv": "Paneerost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Ricotta cheese",
+    "name_sv": "Ricotta-ost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Soy cheese",
+    "name_sv": "Sojaost",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Oat milk",
+    "name_sv": "Havremjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "125g"
+  },
+  {
+    "name": "Condensed milk",
+    "name_sv": "Kondenserad mjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "7g"
+  },
+  {
+    "name": "Greek yogurt",
+    "name_sv": "Grekisk yoghurt",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "23g"
+  },
+  {
+    "name": "Cream",
+    "name_sv": "Grädde",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Sour cream",
+    "name_sv": "Syrad grädde",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Whipped cream",
+    "name_sv": "Vispad grädde",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "60g"
+  },
+  {
+    "name": "Custard",
+    "name_sv": "Vaniljsås",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "25g"
+  },
+  {
+    "name": "Vanilla ice cream",
+    "name_sv": "Vaniljglass",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Kefir",
+    "name_sv": "Kefir",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "23g"
+  },
+  {
+    "name": "Dairy milk",
+    "name_sv": "Mjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "20g"
+  },
+  {
+    "name": "Canned coconut milk",
+    "name_sv": "Konserverad kokosmjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "60g"
+  },
+  {
+    "name": "UHT coconut milk",
+    "name_sv": "UHT kokosmjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "120g"
+  },
+  {
+    "name": "Evaporated milk",
+    "name_sv": "Avdunstad mjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "10g"
+  },
+  {
+    "name": "Goat milk",
+    "name_sv": "Getmjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Hemp milk",
+    "name_sv": "Hampmjölk",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "120g"
+  },
+  {
+    "name": "Soy milk made from whole soy beans",
+    "name_sv": "Sojamjölk gjord av hela sojabönor",
+    "category": "Dairy & Dairy alternatives",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Brazil nuts",
+    "name_sv": "Paranötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Peanuts",
+    "name_sv": "Jordnötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Peanut butter",
+    "name_sv": "Jordnötssmör",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Chestnuts",
+    "name_sv": "Kastanjer",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Macadamias",
+    "name_sv": "Macadamianötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Tigernuts",
+    "name_sv": "Tigerötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Tahini",
+    "name_sv": "Tahini",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Pecans",
+    "name_sv": "Pekannötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Pine nuts",
+    "name_sv": "Pinjenötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Walnuts",
+    "name_sv": "Valnötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Chia seeds",
+    "name_sv": "Chiafrön",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Hemp seeds",
+    "name_sv": "Hampafrön",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Poppy seeds",
+    "name_sv": "Valfrön",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Pumpkin seeds",
+    "name_sv": "Pumpafrön",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Sesame seeds",
+    "name_sv": "Sesamfrön",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Sunflower seeds",
+    "name_sv": "Solrosfrön",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "LSA (linseed, sunflower & almond mix)",
+    "name_sv": "LSA (linfrö, solrosfrö & mandelmix)",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Tempeh (plain)",
+    "name_sv": "Tempeh (naturell)",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Tofu (firm/hard only)",
+    "name_sv": "Tofu (fast/hård endast)",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Sprouted mung beans",
+    "name_sv": "Grodda mungbönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Egg replacer",
+    "name_sv": "Äggersättning",
+    "category": "Nuts, seeds & legumes",
+    "status": "green"
+  },
+  {
+    "name": "Almond meal",
+    "name_sv": "Mandelmjöl",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "24g"
+  },
+  {
+    "name": "Almond butter",
+    "name_sv": "Mandel-smör",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "20g"
+  },
+  {
+    "name": "Almonds",
+    "name_sv": "Mandel",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "12g"
+  },
+  {
+    "name": "Activated cashews",
+    "name_sv": "Aktiverade cashewnötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "15g"
+  },
+  {
+    "name": "Hazelnuts",
+    "name_sv": "Hasselnötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "15g"
+  },
+  {
+    "name": "Flaxseeds / linseeds",
+    "name_sv": "Linfrön",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "15g"
+  },
+  {
+    "name": "Caraway seeds",
+    "name_sv": "Kumminfrön",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "10g"
+  },
+  {
+    "name": "Cooked mung beans",
+    "name_sv": "Tillagade mungbönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "50g"
+  },
+  {
+    "name": "Cooked adzuki beans",
+    "name_sv": "Tillagade adzukibönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "35g"
+  },
+  {
+    "name": "Cooked black beans",
+    "name_sv": "Tillagade svarta bönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Cooked butter beans",
+    "name_sv": "Tillagade smörbönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "35g"
+  },
+  {
+    "name": "Cooked chickpeas",
+    "name_sv": "Tillagade kikärtor",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "42g"
+  },
+  {
+    "name": "Cooked garbanzo beans",
+    "name_sv": "Tillagade garbanzobönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "42g"
+  },
+  {
+    "name": "Cooked brown lentils",
+    "name_sv": "Tillagade bruna linser",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "46g"
+  },
+  {
+    "name": "Cooked green lentils",
+    "name_sv": "Tillagade gröna linser",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "23g"
+  },
+  {
+    "name": "Cooked red lentils",
+    "name_sv": "Tillagade röda linser",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "23g"
+  },
+  {
+    "name": "Cooked lima beans",
+    "name_sv": "Tillagade limabönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Cooked black eyed peas",
+    "name_sv": "Tillagade svarta ögonärtor",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "20g"
+  },
+  {
+    "name": "Cooked pinto beans",
+    "name_sv": "Tillagade pintobönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "yellow",
+    "portion_size": "23g"
+  },
+  {
+    "name": "Cashews",
+    "name_sv": "Cashewnötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Pistachios",
+    "name_sv": "Pistagenötter",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Cooked borlotti beans",
+    "name_sv": "Tillagade borlottibönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Cooked broad beans",
+    "name_sv": "Tillagade bondbönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Textured vegetable protein (TVP)",
+    "name_sv": "Texturerat vegetabiliskt protein (TVP)",
+    "category": "Nuts, seeds & legumes",
+    "status": "red",
+    "comments": "soy, peas, etc.",
+    "comments_sv": "soja, ärtor, etc."
+  },
+  {
+    "name": "Falafel",
+    "name_sv": "Falafel",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Fava beans",
+    "name_sv": "Favabönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Navy beans",
+    "name_sv": "Marinbönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Baked beans",
+    "name_sv": "Bakade bönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Red kidney beans",
+    "name_sv": "Röda kidneybönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Soy beans",
+    "name_sv": "Sojabönor",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Split peas",
+    "name_sv": "Krossade ärtor",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Silken tofu",
+    "name_sv": "Silken tofu",
+    "category": "Nuts, seeds & legumes",
+    "status": "red"
+  },
+  {
+    "name": "Cacao powder",
+    "name_sv": "Kakaopulver",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Cocoa powder",
+    "name_sv": "Kakaopulver",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Agar agar",
+    "name_sv": "Agar agar",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Stevia",
+    "name_sv": "Stevia",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Brown sugar",
+    "name_sv": "Brunt socker",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Icing sugar",
+    "name_sv": "Florsocker",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "White sugar",
+    "name_sv": "Vitt socker",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Palm sugar",
+    "name_sv": "Palmsocker",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Raw sugar",
+    "name_sv": "Rått socker",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Maple syrup",
+    "name_sv": "Lönnsirap",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Rice malt syrup",
+    "name_sv": "Ris-maltsirap",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Jelly",
+    "name_sv": "Gelé",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Chocolate drinking powder",
+    "name_sv": "Chokladdryckspulver",
+    "category": "Sweeteners & confectionery",
+    "status": "green"
+  },
+  {
+    "name": "Carob powder",
+    "name_sv": "Johannesbrödspulver",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "6g"
+  },
+  {
+    "name": "Golden syrup",
+    "name_sv": "Gyldene sirap",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "7g"
+  },
+  {
+    "name": "Honey",
+    "name_sv": "Honung",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "7g"
+  },
+  {
+    "name": "Agave",
+    "name_sv": "Agave",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "5g"
+  },
+  {
+    "name": "Malt extract",
+    "name_sv": "Maltextrakt",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "13g"
+  },
+  {
+    "name": "Coconut sugar",
+    "name_sv": "Kokossocker",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "4g"
+  },
+  {
+    "name": "Molasses",
+    "name_sv": "Melass",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "5g"
+  },
+  {
+    "name": "Coconut treacle syrup",
+    "name_sv": "Kokos sirap",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "14g"
+  },
+  {
+    "name": "Dark chocolate",
+    "name_sv": "Mörk choklad",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "30g"
+  },
+  {
+    "name": "Milk chocolate",
+    "name_sv": "Mjölkchoklad",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "20g"
+  },
+  {
+    "name": "White chocolate",
+    "name_sv": "Vit choklad",
+    "category": "Sweeteners & confectionery",
+    "status": "yellow",
+    "portion_size": "25g"
+  },
+  {
+    "name": "Apple syrup",
+    "name_sv": "Äppelsirap",
+    "category": "Sweeteners & confectionery",
+    "status": "red"
+  },
+  {
+    "name": "Chives",
+    "name_sv": "Gräslök",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Basil",
+    "name_sv": "Basilika",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Capers",
+    "name_sv": "Kapris",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Cardamom",
+    "name_sv": "Kardemumma",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fresh cilantro",
+    "name_sv": "Färsk koriander",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Cinnamon",
+    "name_sv": "Kanel",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Cloves",
+    "name_sv": "Kryddnejlika",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Coriander seeds",
+    "name_sv": "Korianderfrön",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fresh coriander",
+    "name_sv": "Färsk koriander",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Ground cumin",
+    "name_sv": "Malda spiskummin",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Curry leaves",
+    "name_sv": "Currylöv",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Curry powder",
+    "name_sv": "Currypulver",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fresh dill",
+    "name_sv": "Färsk dill",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fennel seeds",
+    "name_sv": "Fänkålsfrön",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Five spice",
+    "name_sv": "Fem kryddor",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Kaffir lime leaves",
+    "name_sv": "Kaffirlimeblad",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Kakadu plum powder",
+    "name_sv": "Kakaduplommonpulver",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Lemon myrtle",
+    "name_sv": "Citronmyrten",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Lemongrass",
+    "name_sv": "Citronella",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Salt",
+    "name_sv": "Salt",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fresh rosemary",
+    "name_sv": "Färsk rosmarin",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Saffron",
+    "name_sv": "Saffran",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fresh sage",
+    "name_sv": "Färsk salvia",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Dill seeds",
+    "name_sv": "Dillfrön",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Masala spice blend",
+    "name_sv": "Masala kryddblandning",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Garam masala",
+    "name_sv": "Garam masala",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Star anise",
+    "name_sv": "Stjärnanis",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Sumac",
+    "name_sv": "Sumak",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Tarragon",
+    "name_sv": "Dragon",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Thai basil",
+    "name_sv": "Thailändsk basilika",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fresh thyme",
+    "name_sv": "Färsk timjan",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Turmeric ground",
+    "name_sv": "Malda gurkmeja",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Vanilla bean pods",
+    "name_sv": "Vaniljstång",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Vanilla essence",
+    "name_sv": "Vaniljessens",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Vegemite",
+    "name_sv": "Vegemite",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Wasabi powder",
+    "name_sv": "Wasabipulver",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fresh watercress",
+    "name_sv": "Färsk vattenkrasse",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Barbeque sauce",
+    "name_sv": "Barbecuesås",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Nutmeg",
+    "name_sv": "Muskatnöt",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Corn relish",
+    "name_sv": "Majsrelish",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fresh mint",
+    "name_sv": "Färsk mynta",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Mustard seeds",
+    "name_sv": "Senapsfrön",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Dried oregano",
+    "name_sv": "Torkad oregano",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Paprika",
+    "name_sv": "Paprika",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Smoked paprika",
+    "name_sv": "Rökt paprika",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fresh parsley",
+    "name_sv": "Färsk persilja",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Black pepper",
+    "name_sv": "Svartpeppar",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Habanero sauce",
+    "name_sv": "Habanerosås",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Horseradish",
+    "name_sv": "Pepparrot",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Strawberry jam",
+    "name_sv": "Jordgubbssylt",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Fish sauce",
+    "name_sv": "Fisk sås",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Mint jelly",
+    "name_sv": "Myntgele",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Mint sauce",
+    "name_sv": "Myntsås",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Mustard",
+    "name_sv": "Senap",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Oyster sauce",
+    "name_sv": "Ostronsås",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Soy sauce",
+    "name_sv": "Soja sås",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Shrimp paste",
+    "name_sv": "Räksås",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Salsa verde",
+    "name_sv": "Grön salsa",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Mild salsa",
+    "name_sv": "Mild salsa",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Tamarind paste",
+    "name_sv": "Tamarindpasta",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Tomato paste",
+    "name_sv": "Tomatpuré",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Mayonnaise",
+    "name_sv": "Majonnäs",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Butter",
+    "name_sv": "Smör",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Apple cider vinegar",
+    "name_sv": "Äppelcidervinäger",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Malt vinegar",
+    "name_sv": "Maltsirap",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Red wine vinegar",
+    "name_sv": "Rödvinsvinäger",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Rice wine vinegar",
+    "name_sv": "Risvinäger",
+    "category": "Condiments & spices",
+    "status": "green"
+  },
+  {
+    "name": "Chilli powder",
+    "name_sv": "Chilipulver",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "2g"
+  },
+  {
+    "name": "Bay leaves",
+    "name_sv": "Lagerblad",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "1g"
+  },
+  {
+    "name": "Raspberry jam",
+    "name_sv": "Hallonsylt",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "40g"
+  },
+  {
+    "name": "Tomato sauce / ketchup",
+    "name_sv": "Tomatsås / ketchup",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "13g"
+  },
+  {
+    "name": "Sweet soy sauce",
+    "name_sv": "Söt sojasås",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "20g"
+  },
+  {
+    "name": "Miso paste",
+    "name_sv": "Misopasta",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "12g"
+  },
+  {
+    "name": "Pesto",
+    "name_sv": "Pesto",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "10g"
+  },
+  {
+    "name": "Sriracha chilli sauce",
+    "name_sv": "Sriracha chilisås",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "5g"
+  },
+  {
+    "name": "Balsamic vinegar",
+    "name_sv": "Balsamvinäger",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "21g"
+  },
+  {
+    "name": "Worcestershire sauce",
+    "name_sv": "Worcestershiresås",
+    "category": "Condiments & spices",
+    "status": "yellow",
+    "portion_size": "42g"
+  },
+  {
+    "name": "Currywurst",
+    "name_sv": "Currywurst",
+    "category": "Condiments & spices",
+    "status": "red"
+  },
+  {
+    "name": "Hummus",
+    "name_sv": "Hummus",
+    "category": "Condiments & spices",
+    "status": "red"
+  },
+  {
+    "name": "Garlic powder",
+    "name_sv": "Vitlökspulver",
+    "category": "Condiments & spices",
+    "status": "red"
+  },
+  {
+    "name": "Tzatziki",
+    "name_sv": "Tsatsiki",
+    "category": "Condiments & spices",
+    "status": "red"
+  },
+  {
+    "name": "Wasabi",
+    "name_sv": "Wasabi",
+    "category": "Condiments & spices",
+    "status": "red"
+  },
+  {
+    "name": "Blueberry jam",
+    "name_sv": "Blåbärssylt",
+    "category": "Condiments & spices",
+    "status": "red"
+  },
+  {
+    "name": "Blackcurrant jam",
+    "name_sv": "Svartvinbärssylt",
+    "category": "Condiments & spices",
+    "status": "red"
+  },
+  {
+    "name": "Water",
+    "name_sv": "Vatten",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Beer",
+    "name_sv": "Öl",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Gin",
+    "name_sv": "Gin",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Kvass",
+    "name_sv": "Kvass",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Vodka",
+    "name_sv": "Vodka",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Whiskey",
+    "name_sv": "Whiskey",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "White wine",
+    "name_sv": "Vitt vin",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Espresso",
+    "name_sv": "Espresso",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Instant coffee",
+    "name_sv": "Snabbkaffe",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Peppermint tea",
+    "name_sv": "Pepparmyntate",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Licorice tea",
+    "name_sv": "Lakritste",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Rooibos tea",
+    "name_sv": "Rooibos-te",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Green tea",
+    "name_sv": "Grönt te",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Black tea",
+    "name_sv": "Svart te",
+    "category": "Beverages",
+    "status": "green"
+  },
+  {
+    "name": "Chrysanthemum tea",
+    "name_sv": "Krysantemum-te",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "1/2 cup"
+  },
+  {
+    "name": "Weak chai tea",
+    "name_sv": "Svag chai-te",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "1 cup"
+  },
+  {
+    "name": "Weak dandelion tea",
+    "name_sv": "Svag maskros-te",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "1 cup"
+  },
+  {
+    "name": "Aloe drink",
+    "name_sv": "Aloe-dryck",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "1/4 cup"
+  },
+  {
+    "name": "Fresh coconut water",
+    "name_sv": "Färsk kokosvatten",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "1/3 cup"
+  },
+  {
+    "name": "Red wine",
+    "name_sv": "Rödvin",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "150ml"
+  },
+  {
+    "name": "Cranberry juice",
+    "name_sv": "Tranbärsjuice",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "3/4 cup"
+  },
+  {
+    "name": "Vegetable juice",
+    "name_sv": "Grönsaksjuice",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "3/4 cup"
+  },
+  {
+    "name": "Wheatgrass powder",
+    "name_sv": "Vetegräs-pulver",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "3g"
+  },
+  {
+    "name": "Fresh orange juice",
+    "name_sv": "Färsk apelsinjuice",
+    "category": "Beverages",
+    "status": "yellow",
+    "portion_size": "1/2 cup"
+  },
+  {
+    "name": "Chamomile tea",
+    "name_sv": "Kamomillte",
+    "category": "Beverages",
+    "status": "red"
+  },
+  {
+    "name": "Oolong tea",
+    "name_sv": "Oolong-te",
+    "category": "Beverages",
+    "status": "red"
+  },
+  {
+    "name": "Fennel tea",
+    "name_sv": "Fänkålste",
+    "category": "Beverages",
+    "status": "red"
+  },
+  {
+    "name": "Sticky wine",
+    "name_sv": "Klistrig vin",
+    "category": "Beverages",
+    "status": "red"
+  },
+  {
+    "name": "Rum",
+    "name_sv": "Rom",
+    "category": "Beverages",
+    "status": "red"
+  },
+  {
+    "name": "Apple juice",
+    "name_sv": "Äppeljuice",
+    "category": "Beverages",
+    "status": "red"
+  },
+  {
+    "name": "Tropical juice",
+    "name_sv": "Tropisk juice",
+    "category": "Beverages",
+    "status": "red"
+  }
+]
